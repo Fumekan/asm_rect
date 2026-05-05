@@ -18,6 +18,8 @@ call print_rectangle
 ***************
 ```
 
+##Build and run
+
 Requirements:
 
 - `nasm`
